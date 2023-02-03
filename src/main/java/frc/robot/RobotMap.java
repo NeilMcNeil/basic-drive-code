@@ -12,8 +12,10 @@ public class RobotMap {
 
     // Drive station port
     public static final int frontLeft = 1;
+    public static final int middleLeft = 2;
     public static final int backLeft = 4;
     public static final int frontRight = 0;
+    public static final int middleRight = 3;
     public static final int backRight = 5;
     
     // Driver stick buttons
