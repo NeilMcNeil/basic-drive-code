@@ -11,12 +11,12 @@ import edu.wpi.first.wpilibj.Ultrasonic;
 public class RobotMap {
 
     // Drive station port
-    public static final int frontLeft = 1;
-    public static final int middleLeft = 2;
-    public static final int backLeft = 4;
+    public static final int frontLeft = 9;
+    public static final int middleLeft = 8;
+    public static final int backLeft = 7;
     public static final int frontRight = 0;
-    public static final int middleRight = 3;
-    public static final int backRight = 5;
+    public static final int middleRight = 1;
+    public static final int backRight = 2;
     
     // Driver stick buttons
     public static final int fastRobotButton = 1;
